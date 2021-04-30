@@ -1,0 +1,130 @@
+[
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": "10000",
+        "pajak": 120000,
+        "hargaTotal": 130000
+    },
+    {
+        "maskapai": "Sriwijaya Air",
+        "bandaraAsal": "Abdul Rachman Saleh (MLG)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": "90000",
+        "pajak": 110000,
+        "hargaTotal": 200000
+    },
+    {
+        "maskapai": "Sriwijaya Air",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": "30000",
+        "pajak": 130000,
+        "hargaTotal": 160000
+    },
+    {
+        "maskapai": "Lion AIr",
+        "bandaraAsal": "Juanda (SUB)",
+        "bandaraTujuan": "Hassanudin (UPG)",
+        "hargaTiket": "80000",
+        "pajak": 110000,
+        "hargaTotal": 190000
+    },
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Sultan Iskandar Muda",
+        "hargaTiket": "1121",
+        "pajak": null,
+        "hargaTotal": 1121
+    },
+    {
+        "maskapai": "Citilink",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Sultan Iskandar Muda",
+        "hargaTiket": "100",
+        "pajak": 50000,
+        "hargaTotal": 50100
+    },
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": "322",
+        "pajak": 120000,
+        "hargaTotal": 120322
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "bandaraAsal": "Abdul Rachman Saleh (MLG)",
+        "bandaraTujuan": "Ngurah Rai",
+        "hargaTiket": "10000",
+        "pajak": 40000,
+        "hargaTotal": 50000
+    },
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Ngurah Rai",
+        "hargaTiket": "1000000",
+        "pajak": 50000,
+        "hargaTotal": 1050000
+    },
+    {
+        "maskapai": "Citilink",
+        "bandaraAsal": "Husein Sastranegara (BDO)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": "200000",
+        "pajak": 100000,
+        "hargaTotal": 300000
+    },
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": "1000000",
+        "pajak": 120000,
+        "hargaTotal": 1120000
+    },
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": "1000000",
+        "pajak": 120000,
+        "hargaTotal": 1120000
+    },
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": "1222000",
+        "pajak": 120000,
+        "hargaTotal": 1342000
+    },
+    {
+        "maskapai": "Citilink",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": "777777",
+        "pajak": 120000,
+        "hargaTotal": 897777
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "bandaraAsal": "Abdul Rachman Saleh (MLG)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": "4242442",
+        "pajak": 120000,
+        "hargaTotal": 4362442
+    },
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": "21",
+        "pajak": 120000,
+        "hargaTotal": 120021
+    }
+]
